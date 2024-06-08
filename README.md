@@ -1,14 +1,6 @@
 # bShare Activity for BuddyPress
 Add the ability for users to recommend posts to their friends from the BuddyPress activity feed. This plugin allows users to easily share interesting updates, events and other activities with their friends.
 === Share Activity for BuddyPress ===
-Contributors: koka boka
-Donate link: https://www.paypal.com/donate/?hosted_button_id=9PKS6YN82J8GG
-Requires at least: 1.0.0
-Requires PHP: 7.4.0
-Tested up to: 6.5.4
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Description: Add the ability for users to recommend posts to their friends from the BuddyPress activity feed. This plugin allows users to easily share interesting updates, events and other activities with their friends.
 
