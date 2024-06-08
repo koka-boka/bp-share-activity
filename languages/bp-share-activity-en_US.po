@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Share Activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-07 19:08+0000\n"
+"PO-Revision-Date: 2024-06-08 06:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: bp-share-activity"
+
+#. Description of the plugin
+msgid ""
+"Add the ability for users to recommend posts to their friends from the "
+"BuddyPress activity feed. This plugin allows users to easily share "
+"interesting updates, events and other activities with their friends."
+msgstr ""
+"Add the ability for users to recommend posts to their friends from the "
+"BuddyPress activity feed. This plugin allows users to easily share "
+"interesting updates, events and other activities with their friends."
+
+#. Author URI of the plugin
+msgid "https://example.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://example.com/buddypress-share-activity"
+msgstr ""
+
+#. Author of the plugin
+msgid "Koka Boka"
+msgstr "Koka Boka"
+
+#. Name of the plugin
+msgid "Share Activity for BuddyPress"
+msgstr "Share Activity for BuddyPress"
+
+#: buddypress-share-activity.php:63
+msgid "Виберіть друзів для спільного використання"
+msgstr "Select friends to share with"
+
+#: includes/ajax-functions.php:21
+msgid "Друзів не знайдено."
+msgstr "No friends found."
+
+#: buddypress-share-activity.php:53 buddypress-share-activity.php:65
+msgid "Поділитися"
+msgstr "Share"
+
+#: buddypress-share-activity.php:53
+msgid "Поділитися цією публікацією зі своїми друзями"
+msgstr "Share this post with your friends"
+
+#: includes/ajax-functions.php:18
+msgid "Показати всіх"
+msgstr "Show all"
+
+#: buddypress-share-activity.php:92 buddypress-share-activity.php:93
+msgid "поділився з вами публікацією"
+msgstr "shared the post with you"
