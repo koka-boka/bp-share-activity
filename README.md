@@ -27,3 +27,8 @@ This description can be used in the WordPress plugin file, as well as in your do
 
 = Version 1.0.0 =
 * Initial release
+
+== Donate ==
+
+If you have a desire to support me, you can do it using this reinforcement.
+Donate link: https://www.paypal.com/donate/?hosted_button_id=9PKS6YN82J8GG
