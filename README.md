@@ -9,6 +9,9 @@ Add the ability for users to recommend posts to their friends from the BuddyPres
 == Description ==
 
 The BuddyPress Share Activity plugin adds a "Share" button to each entry in the BuddyPress activity feed, allowing users to recommend interesting posts to their friends. With this plugin, you can improve the interaction between users of your site and promote the dissemination of important information.
+![1](https://github.com/koka-boka/bp-share-activity/assets/172103790/ea60db93-44ac-49a5-b5e2-8d83be05d5c0)
+![2](https://github.com/koka-boka/bp-share-activity/assets/172103790/76d4b9fc-dab4-4be1-a131-d70976d81aaf)
+![3](https://github.com/koka-boka/bp-share-activity/assets/172103790/c905f3b3-6c0c-4854-9185-da60bbb3d40d)
 
 Features:
 Easily add a "Share" button to every entry in your BuddyPress activity feed.
