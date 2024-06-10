@@ -31,7 +31,14 @@ This description can be used in the WordPress plugin file, as well as in your do
 
 == Changelog ==
 
+= Version 1.0.2 =
+
+* Updated security
+* Updated the notification view so that the entire post text is not added to the notification.
+* Updated styles
+* 
 = Version 1.0.0 =
+
 * Initial release
 
 == Donate ==
